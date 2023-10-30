@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+  ~ Created by alpdroid
+  ~ Copyright Polarsteps B.V. (c) 2022.
+  ~ All rights reserved.
+  -->
+
+<lint>
+    <issue id="ComposePreviewPublic" severity="error">
+        <option name="preview-public-only-if-params" value="true" />
+    </issue>
+</lint>
